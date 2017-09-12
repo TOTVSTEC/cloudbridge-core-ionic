@@ -1,0 +1,24 @@
+{
+  "name": "cloudbridge-core-ionic",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Cloudbridge Ionic-like application",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Daniel Otto Bolognani",
+      "email": "daniel.bolognani@totvs.com.br"
+    }
+  ],
+  "devDependencies": {
+    "totvstec-tools": "^1.0.6"
+  },
+  "scripts": {
+    "release": "totvstec release",
+    "release:minor": "totvstec release minor",
+    "release:major": "totvstec release major"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/totvstec/cloudbridge-core-ionic.git"
+  }
+}
