@@ -1,0 +1,7 @@
+node_modules/
+.vscode/.BROWSE.VC.DB
+.vscode/launch.json
+coverage/
+build/
+old/
+*.log
